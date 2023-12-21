@@ -36,3 +36,15 @@
     font-weight: bold;
     line-height: 2em;
 }
+
+.mx-auto.rounded-circle {
+    max-width: 200px;
+}
+
+.carousel-caption {
+    color: black;
+}
+
+header.masthead {
+  background-image: url("../assets/img/first_page_header.png");
+}
